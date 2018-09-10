@@ -1,0 +1,30 @@
+{
+  "name": "danielsif227-proyecto-notas",
+  "version": "1.0.0",
+  "description": "Proyecto para prácticar con objetos json y persistencia en disco mediante ficheros",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsif227/curso-node-js-proyecto-notas.git"
+  },
+  "keywords": [
+    "proyecto-notas"
+  ],
+  "author": "danielsif227 <danielsif227@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielsif227/curso-node-js-proyecto-notas/issues"
+  },
+  "homepage": "https://github.com/danielsif227/curso-node-js-proyecto-notas#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
